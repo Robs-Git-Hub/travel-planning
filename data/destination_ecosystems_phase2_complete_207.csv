@@ -1,0 +1,208 @@
+airport_iata,airport_name,country,london_routes,destination_ecosystem,ecosystem_status
+TIV,Tivat Airport,Montenegro,,Bay of Kotor,draft_assigned
+TGD,Podgorica Airport,Montenegro,,Podgorica–Lake Skadar–Montenegro mountains,draft_assigned
+DBV,Dubrovnik Airport,Croatia,,Dubrovnik–Cavtat,draft_assigned
+SPU,Split Airport,Croatia,,Split–Trogir–Dalmatian Coast,draft_assigned
+PUY,Pula Airport,Croatia,,Istria: Pula–Rovinj–Poreč,draft_assigned
+ZAD,Zadar Airport,Croatia,,Zadar–Northern Dalmatia,draft_assigned
+RJK,Rijeka Airport,Croatia,,Kvarner Gulf: Rijeka–Opatija–Krk,draft_assigned
+OSI,Osijek Airport,Croatia,,Osijek–Slavonia,draft_assigned
+LJU,Ljubljana Airport,Slovenia,,Ljubljana–Lake Bled–Piran,draft_assigned
+TRS,Trieste Airport,Italy,,Trieste–Miramare–Slovenian Coast,draft_assigned
+VCE,Venice Marco Polo,Italy,,Venice Lagoon,draft_assigned
+TSF,Treviso Airport,Italy,,Treviso–Venice–Veneto,draft_assigned
+BLQ,Bologna Airport,Italy,,Bologna–Emilia-Romagna,draft_assigned
+PSA,Pisa Airport,Italy,,Pisa–Lucca–Tuscany Coast,draft_assigned
+FLR,Florence Airport,Italy,,Florence–Tuscany,draft_assigned
+GOA,Genoa Airport,Italy,,Genoa–Italian Riviera,draft_assigned
+NAP,Naples Airport,Italy,,Naples–Pompeii–Amalfi,draft_assigned
+BDS,Brindisi Airport,Italy,,Brindisi–Lecce–Salento,draft_assigned
+BRI,Bari Airport,Italy,,Bari–Polignano–Matera–Puglia,draft_assigned
+CTA,Catania Airport,Italy,,Catania–Etna–Taormina,draft_assigned
+PMO,Palermo Airport,Italy,,Palermo–Cefalù–Western Sicily,draft_assigned
+AHO,Alghero Airport,Italy,,Alghero–Northwest Sardinia,draft_assigned
+OLB,Olbia Airport,Italy,,Olbia–Costa Smeralda–Northeast Sardinia,draft_assigned
+CAG,Cagliari Airport,Italy,,Cagliari–South Sardinia,draft_assigned
+FCO,Rome Fiumicino,Italy,,Rome,draft_assigned
+CIA,Rome Ciampino,Italy,,Rome,draft_assigned
+MXP,Milan Malpensa,Italy,,Milan–Lake Como–Italian Lakes,draft_assigned
+BGY,Bergamo Airport,Italy,,Bergamo–Milan–Lake Iseo,draft_assigned
+LIN,Milan Linate,Italy,,Milan,draft_assigned
+TRN,Turin Airport,Italy,,Turin–Piedmont,draft_assigned
+VRN,Verona Airport,Italy,,Verona–Lake Garda,draft_assigned
+PMI,Palma de Mallorca,Spain,,Mallorca,draft_assigned
+IBZ,Ibiza Airport,Spain,,Ibiza–Formentera,draft_assigned
+MAH,Menorca Airport,Spain,,Menorca,draft_assigned
+BCN,Barcelona El Prat,Spain,,Barcelona–Catalonia Coast,draft_assigned
+GRO,Girona Airport,Spain,,Girona–Costa Brava,draft_assigned
+REU,Reus Airport,Spain,,Tarragona–Reus–Costa Daurada,draft_assigned
+ALC,Alicante Airport,Spain,,Alicante–Costa Blanca,draft_assigned
+AGP,Malaga Airport,Spain,,Málaga–Andalusia–Costa del Sol,draft_assigned
+SVQ,Seville Airport,Spain,,Seville–Andalusia,draft_assigned
+VLC,Valencia Airport,Spain,,Valencia–Valencian Coast,draft_assigned
+BIO,Bilbao Airport,Spain,,Bilbao–San Sebastián–Basque Country,draft_assigned
+MAD,Madrid Airport,Spain,,Madrid–Toledo–Segovia,draft_assigned
+SDR,Santander Airport,Spain,,Santander–Cantabrian Coast,draft_assigned
+OVD,Asturias Airport,Spain,,Oviedo–Gijón–Asturias,draft_assigned
+SCQ,Santiago de Compostela,Spain,,Santiago de Compostela–Galicia,draft_assigned
+VGO,Vigo Airport,Spain,,Vigo–Rías Baixas,draft_assigned
+LCG,A Coruña Airport,Spain,,A Coruña–Galician Coast,draft_assigned
+ACE,Lanzarote Airport,Spain,,Lanzarote,draft_assigned
+FUE,Fuerteventura Airport,Spain,,Fuerteventura,draft_assigned
+LPA,Gran Canaria Airport,Spain,,Gran Canaria,draft_assigned
+TFS,Tenerife South,Spain,,Tenerife,draft_assigned
+TFN,Tenerife North,Spain,,Tenerife,draft_assigned
+SPC,La Palma Airport,Spain,,La Palma,draft_assigned
+FAO,Faro Airport,Portugal,,Eastern Algarve–Tavira–Ria Formosa,draft_assigned
+LIS,Lisbon Airport,Portugal,,Lisbon–Cascais–Sintra,draft_assigned
+OPO,Porto Airport,Portugal,,Porto–Douro,draft_assigned
+FNC,Madeira Airport,Portugal,,Madeira,draft_assigned
+PDL,Ponta Delgada Airport,Portugal,,São Miguel–Azores,draft_assigned
+TER,Lajes Airport,Portugal,,Terceira–Azores,draft_assigned
+PXO,Porto Santo Airport,Portugal,,Porto Santo–Madeira Islands,draft_assigned
+NCE,Nice Airport,France,,Nice–French Riviera,draft_assigned
+MRS,Marseille Airport,France,,Marseille–Cassis–Provence Coast,draft_assigned
+TLS,Toulouse Airport,France,,Toulouse–Southwest France,draft_assigned
+BOD,Bordeaux Airport,France,,Bordeaux–Saint-Émilion–Wine Country,draft_assigned
+BIQ,Biarritz Airport,France,,Biarritz–French Basque Coast,draft_assigned
+LYS,Lyon Airport,France,,Lyon–Beaujolais–Alps Gateway,draft_assigned
+NTE,Nantes Airport,France,,Nantes–Loire–Atlantic France,draft_assigned
+RNS,Rennes Airport,France,,Rennes–Brittany,draft_assigned
+SXB,Strasbourg Airport,France,,Strasbourg–Alsace,draft_assigned
+LIL,Lille Airport,France,,Lille–Flanders,draft_assigned
+MPL,Montpellier Airport,France,,Montpellier–Languedoc Coast,draft_assigned
+BVA,Paris Beauvais,France,,Paris/Beauvais; needs research because airport is distant,needs_research
+CDG,Paris CDG,France,,Paris,draft_assigned
+ORY,Paris Orly,France,,Paris,draft_assigned
+GNB,Grenoble Airport,France,,Grenoble–French Alps,draft_assigned
+AJA,Ajaccio Airport,France,,Ajaccio–Western Corsica,draft_assigned
+BIA,Bastia Airport,France,,Bastia–Northern Corsica,draft_assigned
+CLY,Calvi Airport,France,,Calvi–Balagne–Corsica,draft_assigned
+ATH,Athens Airport,Greece,,Athens–Attica Coast,draft_assigned
+SKG,Thessaloniki Airport,Greece,,Thessaloniki–Northern Greece,draft_assigned
+CHQ,Chania Airport,Greece,,Chania–Western Crete,draft_assigned
+HER,Heraklion Airport,Greece,,Heraklion–Central Crete,draft_assigned
+RHO,Rhodes Airport,Greece,,Rhodes,draft_assigned
+CFU,Corfu Airport,Greece,,Corfu,draft_assigned
+PVK,Preveza Airport,Greece,,Lefkada–Preveza–Epirus Coast,draft_assigned
+JMK,Mykonos Airport,Greece,,Mykonos,draft_assigned
+JTR,Santorini Airport,Greece,,Santorini,draft_assigned
+KGS,Kos Airport,Greece,,Kos,draft_assigned
+ZTH,Zakynthos Airport,Greece,,Zakynthos,draft_assigned
+SMI,Samos Airport,Greece,,Samos,draft_assigned
+EFL,Kefalonia Airport,Greece,,Kefalonia,draft_assigned
+JKH,Chios Airport,Greece,,Chios,draft_assigned
+MLA,Malta International,Malta,,Malta–Valletta–Gozo,draft_assigned
+TLL,Tallinn Airport,Estonia,,Tallinn,draft_assigned
+RIX,Riga Airport,Latvia,,Riga,draft_assigned
+VNO,Vilnius Airport,Lithuania,,Vilnius–Trakai,draft_assigned
+GDN,Gdansk Airport,Poland,,Gdańsk–Sopot–Baltic Coast,draft_assigned
+KRK,Krakow Airport,Poland,,Kraków,draft_assigned
+WAW,Warsaw Chopin,Poland,,Warsaw,draft_assigned
+WMI,Warsaw Modlin,Poland,,Warsaw/Modlin; needs research because airport is distant,needs_research
+KTW,Katowice Airport,Poland,,Katowice–Silesia; possible Kraków access,draft_assigned
+WRO,Wroclaw Airport,Poland,,Wrocław,draft_assigned
+POZ,Poznan Airport,Poland,,Poznań,draft_assigned
+SZZ,Szczecin Airport,Poland,,Szczecin–West Pomerania,draft_assigned
+PRG,Prague Airport,Czech Republic,,Prague,draft_assigned
+BRQ,Brno Airport,Czech Republic,,Brno–South Moravia,draft_assigned
+BUD,Budapest Airport,Hungary,,Budapest,draft_assigned
+VIE,Vienna Airport,Austria,,Vienna,draft_assigned
+SZG,Salzburg Airport,Austria,,Salzburg–Salzkammergut–Alps,draft_assigned
+INN,Innsbruck Airport,Austria,,Innsbruck–Tyrol Alps,draft_assigned
+GRZ,Graz Airport,Austria,,Graz–Styria,draft_assigned
+ZRH,Zurich Airport,Switzerland,,Zurich–Swiss Lakes,draft_assigned
+GVA,Geneva Airport,Switzerland,,Geneva–Lake Geneva,draft_assigned
+BSL,Basel Airport,Switzerland,,Basel–Alsace–Swiss Jura,draft_assigned
+BER,Berlin Brandenburg,Germany,,Berlin,draft_assigned
+HAM,Hamburg Airport,Germany,,Hamburg,draft_assigned
+DUS,Düsseldorf Airport,Germany,,Düsseldorf–Rhine-Ruhr,draft_assigned
+CGN,Cologne Bonn,Germany,,Cologne–Bonn–Rhine,draft_assigned
+MUC,Munich Airport,Germany,,Munich–Bavaria,draft_assigned
+FRA,Frankfurt Airport,Germany,,Frankfurt–Mainz–Rhine Valley,draft_assigned
+STR,Stuttgart Airport,Germany,,Stuttgart–Black Forest Gateway,draft_assigned
+HAJ,Hanover Airport,Germany,,Hanover–Lower Saxony,draft_assigned
+LEJ,Leipzig Airport,Germany,,Leipzig,draft_assigned
+NUE,Nuremberg Airport,Germany,,Nuremberg–Franconia,draft_assigned
+CPH,Copenhagen Airport,Denmark,,Copenhagen–Malmö,draft_assigned
+AAL,Aalborg Airport,Denmark,,Aalborg–North Jutland,draft_assigned
+BLL,Billund Airport,Denmark,,Billund–Jutland,draft_assigned
+AAR,Aarhus Airport,Denmark,,Aarhus–East Jutland,draft_assigned
+OSL,Oslo Airport,Norway,,Oslo Fjord,draft_assigned
+BGO,Bergen Airport,Norway,,Bergen–Fjords,draft_assigned
+SVG,Stavanger Airport,Norway,,Stavanger–Lysefjord,draft_assigned
+TRD,Trondheim Airport,Norway,,Trondheim,draft_assigned
+TOS,Tromso Airport,Norway,,Tromsø–Arctic Norway,draft_assigned
+ARN,Stockholm Arlanda,Sweden,,Stockholm–Archipelago,draft_assigned
+BMA,Stockholm Bromma,Sweden,,Stockholm,draft_assigned
+MMX,Malmo Airport,Sweden,,Malmö–Skåne–Copenhagen access,draft_assigned
+GOT,Gothenburg Airport,Sweden,,Gothenburg–West Sweden Coast,draft_assigned
+HEL,Helsinki Airport,Finland,,Helsinki,draft_assigned
+RVN,Rovaniemi Airport,Finland,,Rovaniemi–Lapland,draft_assigned
+KEF,Keflavik Airport,Iceland,,Reykjavík–Southwest Iceland,draft_assigned
+DUB,Dublin Airport,Ireland,,Dublin,draft_assigned
+ORK,Cork Airport,Ireland,,Cork–South Ireland,draft_assigned
+SNN,Shannon Airport,Ireland,,Shannon–Limerick–Cliffs of Moher,draft_assigned
+NOC,Knock Airport,Ireland,,West Ireland–Mayo–Galway; needs research,needs_research
+BFS,Belfast International,United Kingdom,,Belfast–Antrim Coast,draft_assigned
+EDI,Edinburgh Airport,United Kingdom,,Edinburgh,draft_assigned
+GLA,Glasgow Airport,United Kingdom,,Glasgow–Loch Lomond,draft_assigned
+INV,Inverness Airport,United Kingdom,,Inverness–Scottish Highlands,draft_assigned
+AMS,Amsterdam Schiphol,Netherlands,,Amsterdam,draft_assigned
+RTM,Rotterdam The Hague,Netherlands,,Rotterdam–Delft–The Hague,draft_assigned
+EIN,Eindhoven Airport,Netherlands,,Eindhoven–North Brabant,draft_assigned
+MST,Maastricht Aachen,Netherlands,,Maastricht–Aachen–Limburg,draft_assigned
+BRU,Brussels Airport,Belgium,,Ghent–Bruges–Brussels,draft_assigned
+CRL,Brussels Charleroi,Belgium,,Charleroi/Brussels; needs research because airport is distant,needs_research
+ANR,Antwerp Airport,Belgium,,Antwerp–Flanders,draft_assigned
+LUX,Luxembourg Airport,Luxembourg,,Luxembourg City,draft_assigned
+IST,Istanbul Airport,Turkey,,Istanbul,draft_assigned
+SAW,Sabiha Gokcen,Turkey,,Istanbul–Asian Side–Marmara,draft_assigned
+AYT,Antalya Airport,Turkey,,Antalya–Turkish Riviera,draft_assigned
+DLM,Dalaman Airport,Turkey,,Fethiye–Kalkan Coast,draft_assigned
+ADB,Izmir Airport,Turkey,,İzmir–Ephesus–Aegean Turkey,draft_assigned
+BJV,Bodrum Airport,Turkey,,Bodrum Peninsula,draft_assigned
+TZX,Trabzon Airport,Turkey,,Trabzon–Black Sea Turkey,draft_assigned
+ESB,Ankara Airport,Turkey,,Ankara–Central Anatolia; likely functional/urban ecosystem,draft_assigned
+RAK,Marrakesh Airport,Morocco,,Marrakesh,draft_assigned
+AGA,Agadir Airport,Morocco,,Agadir–Atlantic Morocco,draft_assigned
+TNG,Tangier Airport,Morocco,,Tangier–Tetouan–Northern Morocco,draft_assigned
+CMN,Casablanca Airport,Morocco,,Casablanca–Rabat Coast,draft_assigned
+FEZ,Fes Airport,Morocco,,Fes,draft_assigned
+RBA,Rabat Airport,Morocco,,Rabat,draft_assigned
+NBE,Enfidha Airport,Tunisia,,Hammamet–Sousse–Tunisia resorts,draft_assigned
+TUN,Tunis Airport,Tunisia,,Tunis–Carthage–Sidi Bou Said,draft_assigned
+DJE,Djerba Airport,Tunisia,,Djerba,draft_assigned
+ALG,Algiers Airport,Algeria,,Algiers,draft_assigned
+CAI,Cairo Airport,Egypt,,Cairo–Giza,draft_assigned
+HRG,Hurghada Airport,Egypt,,Hurghada–Red Sea,draft_assigned
+SSH,Sharm el-Sheikh,Egypt,,Sharm el-Sheikh–Sinai,draft_assigned
+LCA,Larnaca Airport,Cyprus,,Larnaca–South Cyprus,draft_assigned
+PFO,Paphos Airport,Cyprus,,Paphos–West Cyprus,draft_assigned
+SOF,Sofia Airport,Bulgaria,,Sofia–Vitosha,draft_assigned
+VAR,Varna Airport,Bulgaria,,Varna–Black Sea Coast,draft_assigned
+BOJ,Burgas Airport,Bulgaria,,Burgas–Black Sea Coast,draft_assigned
+OTP,Bucharest Otopeni,Romania,,Bucharest,draft_assigned
+CLJ,Cluj Airport,Romania,,Cluj-Napoca–Transylvania,draft_assigned
+TSR,Timisoara Airport,Romania,,Timișoara–Banat,draft_assigned
+IAS,Iasi Airport,Romania,,Iași–Moldavia region,draft_assigned
+BEG,Belgrade Airport,Serbia,,Belgrade,draft_assigned
+INI,Nis Airport,Serbia,,Niš–Southern Serbia; needs research,needs_research
+SJJ,Sarajevo Airport,Bosnia and Herzegovina,,Sarajevo,draft_assigned
+TZL,Tuzla Airport,Bosnia and Herzegovina,,Tuzla–Northeast Bosnia; weak/functional ecosystem,needs_research
+SKP,Skopje Airport,North Macedonia,,Skopje–North Macedonia,draft_assigned
+OHD,Ohrid Airport,North Macedonia,,Ohrid,draft_assigned
+TIA,Tirana Airport,Albania,,Tirana–Albanian Riviera,draft_assigned
+PRN,Pristina Airport,Kosovo,,Pristina–Kosovo,draft_assigned
+KUN,Kaunas Airport,Lithuania,,Kaunas–Vilnius access,draft_assigned
+TRF,Sandefjord Torp,Norway,,Oslo/Torp–Vestfold; needs research because airport is distant,needs_research
+TMP,Tampere Airport,Finland,,Tampere–Finnish Lakeland,draft_assigned
+TKU,Turku Airport,Finland,,Turku–Archipelago Sea,draft_assigned
+BRS,Bristol Airport,United Kingdom,,Bristol–Bath–Cotswolds,draft_assigned
+FAE,Faroe Islands Airport,Faroe Islands,,Faroe Islands,draft_assigned
+LDE,Tarbes-Lourdes Airport,France,,Lourdes–Pyrenees,draft_assigned
+PUF,Pau Airport,France,,Pau–Pyrenees,draft_assigned
+PEG,Perugia Airport,Italy,,Perugia–Umbria,draft_assigned
+PSR,Pescara Airport,Italy,,Pescara–Abruzzo Coast,draft_assigned
+SUF,Lamezia Terme,Italy,,Tropea–Calabria,draft_assigned
+TRAP,Trapani Airport,Italy,,Trapani–Western Sicily,draft_assigned
