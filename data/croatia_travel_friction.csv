@@ -1,0 +1,7 @@
+airport_iata,airport_name,country,destination_ecosystem,anchor_place,transfer_time_min,transfer_mode,transfer_complexity,distance_score,notes
+DBV,Dubrovnik Airport,Croatia,Dubrovnik–Cavtat,Cavtat,10,taxi or local bus,simple,10,Closest strong anchor; Dubrovnik itself is also a major anchor at around 25 minutes
+SPU,Split Airport,Croatia,Split–Trogir–Dalmatian Coast,Trogir,10,taxi or local bus,simple,10,Closest compact historic anchor; Split is around 30 minutes
+PUY,Pula Airport,Croatia,Istria: Pula–Rovinj–Poreč,Rovinj,40,taxi or bus,moderate,9,Rovinj is likely the strongest Perast-like Istrian anchor; Pula is closer
+ZAD,Zadar Airport,Croatia,Zadar–Northern Dalmatia,Zadar,20,airport bus or taxi,simple,10,Strong compact coastal city anchor
+RJK,Rijeka Airport,Croatia,Kvarner Gulf: Rijeka–Opatija–Krk,Opatija,45,taxi or bus,moderate,8,At the 45-minute threshold; Rijeka and Krk are alternative anchors
+OSI,Osijek Airport,Croatia,Osijek–Slavonia,Osijek,20,taxi,simple,10,Good access but weaker fit for coastal/scenic holiday model
